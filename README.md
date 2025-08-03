@@ -21,6 +21,6 @@ Easily export figures to high-resolution formats suitable for papers, reports, a
 Contact  
 For questions or collaboration, feel free to reach out.
 
-Name: Tomáš Karas  
-Email: <tomas.karas@fs.cvut.cz>  
+Tomáš Karas  
+<tomas.karas@fs.cvut.cz>  
 [<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="16" height="16"> ORCID](https://orcid.org/0009-0005-7202-6036)
