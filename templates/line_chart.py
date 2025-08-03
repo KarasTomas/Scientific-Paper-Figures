@@ -20,7 +20,7 @@ def create_line_plot(
     x_label: str = "X-axis",
     y_label: str = "Y-axis",
     title: str = "Line Plot",
-    legend_labels: list = None,
+    legend_labels: list[str] | None = None,
 ):
     """
     Generates and saves a high-quality line plot.
