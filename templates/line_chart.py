@@ -79,5 +79,6 @@ def create_line_plot(
 
     # Save the figure to the specified path
     plt.savefig(output_path, bbox_inches="tight")
-    plt.close(fig)  # Close the figure to free up memory
-    print(f"Plot saved to: {output_path}")
+    plt.show()
+    # plt.close(fig)  # Close the figure to free up memory
+    # print(f"Plot saved to: {output_path}")
